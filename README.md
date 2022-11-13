@@ -6,5 +6,5 @@ San Francisco Airport Dashboard of a March 2022.
        </a>
   to see the project. </h2>
 <div>
-<img src= "https://github.com/maheshdethe01/INDIA-WATER-PORTAL/blob/main/INDIA%20WATER%20PORTAL.png" width="1000" height ="1500" />
+<img src= "https://github.com/maheshdethe01/HR-Actives-Dashboard/blob/main/image%20(20).png" width="1000" height ="600" />
 </div>
